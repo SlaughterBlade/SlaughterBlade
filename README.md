@@ -11,25 +11,25 @@
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://discordapp.com/channels/@me/PsychoStyle#0621/">
-  <img align="left" alt="Yousef's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="Yousef's Discord" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/discord.svg" />
 </a>
 <a href="https://www.instagram.com/yousef.mafalha/">
-  <img align="left" alt="Yousef's Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />
+  <img align="left" alt="Yousef's Instagram" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/instagram.svg" />
 </a>
 <a href="https://twitter.com/YMafalha">
-  <img align="left" alt="Yousef Almafalha | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Yousef Almafalha | Twitter" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/yousef-almafalha-053247214/">
-  <img align="left" alt="Yousef's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Yousef's LinkedIN" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/linkedin.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199020538077/"> 
-  <img align="left" alt="Steam" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/steam.svg" />
+  <img align="left" alt="Steam" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/steam.svg" />
 </a>
 <a href="https://open.spotify.com/user/15jdmkrwbjicdn85sbmohq3bs?si=b1540e3d27904ee1">
-  <img align="left" alt="Yousef's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+  <img align="left" alt="Yousef's Spotify" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/spotify.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UChrahkXcZYD1XaSMd9h4d9A">
-  <img align="left" alt="Yousef's YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
+  <img align="left" alt="Yousef's YouTube" width="22px" src="https://github.com/SlaughterBlade/SlaughterBlade/blob/main/icons/youtube.svg" />
 </a>
 
 
